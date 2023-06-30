@@ -5,7 +5,8 @@ npm install react-icons --save
 import { IconName } from "react-icons/fa6";
 
 ================================
-
+cubic-bezier  ==> for trasition effect
+search on google
 ================================
 
 
