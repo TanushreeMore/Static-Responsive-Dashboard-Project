@@ -157,6 +157,7 @@
     transition: 0.3s;
 }
 
+/* for tab or mobile view */
 @media screen and (max-width : 525px) {
     .container {
         width: calc(100% - 68px);
